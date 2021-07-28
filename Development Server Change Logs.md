@@ -2,7 +2,7 @@
 
 ## Current Version
 
-### **[0.0.1]** - 09:56AM BST 28/07/2021
+### **[0.1.0]** - 09:56AM BST 28/07/2021
 
 #### Added
 - All programming to this day.
