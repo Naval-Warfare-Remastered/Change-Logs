@@ -2,7 +2,7 @@
 
 ## Current Version
 
-### **[0.1.1]** - 11:xxAM BST 29/07/2021
+### **[0.1.1]** - 11:27AM BST 29/07/2021
 
 #### Added
 - Basic Ship Firing Test
