@@ -1,6 +1,6 @@
 # Development Server Change Logs
 
-### **[CURRENT BUILD] [0.2.1]** - 11:27AM BST 29/07/2021
+### **[CURRENT BUILD] [0.2.1]** - 2:50AM BST 7/10/2021
 
 #### Added
 - N/A
@@ -13,7 +13,7 @@
 
 ---------------------------------
 
-### **[0.2.0]** - 11:27AM BST 29/07/2021
+### **[0.2.0]** - 2:30AM BST 7/10/2021
 
 #### Added
 - Complete revamp and recode
