@@ -4,9 +4,22 @@
 - Canary: ~
 - Development: 0.2.2
 
+# Format
+
+### **[Version Number] (Server that has this version)** - HH:MM (AM/PM) BST DD/MM/YYYY
+
+#### Added
+Stuff added in the version.
+
+#### Changed
+Stuff changed in the version.
+
+#### Removed
+Stuff removed in the version.
+
 # Versions
 
-### **[0.2.2] (Development Server)** - 13:30AM BST 10/10/2021
+### **[0.2.2] (Development Server)** - 1:30PM BST 10/10/2021
 
 #### Added
 - Auto-Clearer for Vehicle Spawns that clears any vehicles in the zone.
