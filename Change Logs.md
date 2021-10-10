@@ -6,7 +6,7 @@ Development: 0.2.2
 
 # Versions
 
-### **[Development Server] [0.2.2]** - 13:30AM BST 10/10/2021
+### **[0.2.2] (DEV-Server)** - 13:30AM BST 10/10/2021
 
 #### Added
 - Auto-Clearer for Vehicle Spawns that clears any vehicles in the zone.
@@ -23,7 +23,7 @@ Development: 0.2.2
 
 ---------------------------------
 
-### **[0.2.1]** - 2:50AM BST 7/10/2021
+### **[0.2.1] (Legacy)** - 2:50AM BST 7/10/2021
 
 #### Added
 - N/A
@@ -36,7 +36,7 @@ Development: 0.2.2
 
 ---------------------------------
 
-### **[0.2.0]** - 2:30AM BST 7/10/2021
+### **[0.2.0] (Legacy)** - 2:30AM BST 7/10/2021
 
 #### Added
 - Complete revamp and recode
@@ -49,7 +49,7 @@ Development: 0.2.2
 
 ---------------------------------
 
-### **[0.1.1]** - 11:27AM BST 29/07/2021
+### **[0.1.1] (Legacy)** - 11:27AM BST 29/07/2021
 
 #### Added
 - Basic Ship Firing Test
@@ -62,7 +62,7 @@ Development: 0.2.2
 
 ---------------------------------
 
-### **[0.1.0]** - 09:56AM BST 28/07/2021
+### **[0.1.0] (Legacy)** - 09:56AM BST 28/07/2021
 
 #### Added
 - All programming to this day.
