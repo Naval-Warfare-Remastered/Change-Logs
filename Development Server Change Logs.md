@@ -1,6 +1,6 @@
 # Development Server Change Logs
 
-### **[CURRENT BUILD] [0.2.2]** - 2:50AM BST 7/10/2021
+### **[CURRENT BUILD] [0.2.2]** - 13:30AM BST 10/10/2021
 
 #### Added
 - Auto-Clearer for Vehicle Spawns that clears any vehicles in the zone.
