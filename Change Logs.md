@@ -1,8 +1,8 @@
 # Current Server Versions
 
-Stable: ~
-Canary: ~
-Development: 0.2.2
+- Stable: ~
+- Canary: ~
+- Development: 0.2.2
 
 # Versions
 
