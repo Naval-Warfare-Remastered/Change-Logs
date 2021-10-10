@@ -6,7 +6,7 @@
 
 # Versions
 
-### **[0.2.2] (DEV-Server)** - 13:30AM BST 10/10/2021
+### **[0.2.2] (Development Server)** - 13:30AM BST 10/10/2021
 
 #### Added
 - Auto-Clearer for Vehicle Spawns that clears any vehicles in the zone.
