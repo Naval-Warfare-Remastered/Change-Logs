@@ -4,22 +4,21 @@
 - Canary: ~
 - Development: 0.2.2
 
-# Format
-
-### **[Version Number] (Server that has this version)** - HH:MM (AM/PM) BST DD/MM/YYYY
-
-#### Added
-Stuff added in the version.
-
-#### Changed
-Stuff changed in the version.
-
-#### Removed
-Stuff removed in the version.
-
 # Versions
 
-### **[0.2.2] (Development Server)** - 1:30PM BST 10/10/2021
+### **[0.2.3] (Development Server)** - 4:36PM BST 11/10/2021
+
+#### Added
+- Damagable Harbours & Top bar indicator.
+- New music framework that adapts to in-game situations and events.
+
+#### Changed
+- Improved the map settings modules.
+
+#### Removed
+- N/A
+
+### **[0.2.2] (Legacy)** - 1:30PM BST 10/10/2021
 
 #### Added
 - Auto-Clearer for Vehicle Spawns that clears any vehicles in the zone.
