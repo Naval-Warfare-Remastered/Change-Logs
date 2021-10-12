@@ -18,6 +18,7 @@
 
 #### Changed
 - Changed background music to only play upon death and victory.
+- Vehicle indicator now appears red for axis and blue for allied instead of red for enemies and blue for teammates.
 
 #### Removed
 - Submarine abilities for Developer Cruiser
