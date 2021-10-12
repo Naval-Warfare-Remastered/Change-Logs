@@ -2,11 +2,30 @@
 
 - Stable: ~
 - Canary: ~
-- Development: 0.2.3
+- Development: 0.2.4
 
 # Versions
 
-### **[0.2.3] (Development Server)** - 4:36PM BST 11/10/2021
+### **[0.2.4] (Development Server)** - 6:00PM BST 12/10/2021
+
+#### Added
+- Killfeed.
+- Coin awards for playtime, kills and winning matches.
+- Kill notifications, letting you know when you killed a target vehicle.
+- Victory messages.
+- Death ragdoll and screen effects.
+- Settings Panel
+
+#### Changed
+- Changed background music to only play upon death and victory.
+
+#### Removed
+- Submarine abilities for Developer Cruiser
+
+
+---------------------------------
+
+### **[0.2.3] (Legacy)** - 4:36PM BST 11/10/2021
 
 #### Added
 - Damagable Harbours & Top bar indicator.
