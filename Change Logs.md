@@ -2,7 +2,8 @@
 
 - Stable: ~
 - Canary: ~
-- Development: 0.2.4
+- Development: 0.2.4-1
+- Closed Development (In Development): 0.2.5
 
 # Versions
 
