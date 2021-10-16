@@ -20,6 +20,7 @@
 - Changed background music to only play upon death and victory.
 - Vehicle indicator now appears red for axis and blue for allied instead of red for enemies and blue for teammates.
 - Changed intermission duration from 2 seconds to 20 seconds.
+- Allowed rank of Tester to join (Only on 0.2.4-1 variant)
 
 #### Removed
 - Submarine abilities for Developer Cruiser
