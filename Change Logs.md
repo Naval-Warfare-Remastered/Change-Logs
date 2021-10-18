@@ -2,12 +2,37 @@
 
 - Stable: ~
 - Canary: ~
-- Development: 0.2.4-1
+- Development: 0.2.5
 - Closed Development (In Development): 0.2.5
 
 # Versions
 
-### **[0.2.4] (Development Server)** - 6:00PM BST 12/10/2021
+### **[0.2.5] (Development Server)** - 5:24PM BST 18/10/2021
+
+#### Added
+- Country separation for vehicles.
+- Smoke Screen system.
+- Spotlight target illumination.
+- Uniform System (Including remove uniform gamepass)
+- New authorisation system that detects the game type to allow access.
+- Admin Commands.
+- New map more similar to original Naval Warfare.
+
+#### Changed
+- Fixed visual bug relating to point capture.
+- Fixed a bug preventing players from interacting with proximity prompts.
+- Fixed a bug preventing players from spawning on captured territory.
+- Fixed a bug preventing mobile players from clicking buttons.
+- Fixed a bug where the Atmosphere setting would display 'ON' when off.
+- Fixed a bug requiring people to press spawns twice.
+
+#### Removed
+- Vehicle Spawner on the DevCruiser
+
+
+---------------------------------
+
+### **[0.2.4] (Legacy)** - 6:00PM BST 12/10/2021
 
 #### Added
 - Killfeed.
